@@ -53,9 +53,9 @@ A projekt futtatásához csak egy böngésző szükséges:
 
 **Megjegyzés:** Ha módosítani szeretnéd az SCSS fájlokat, szükséged lesz egy SCSS compiler-re (pl. Sass).
 
-## 🤝 Közreműködés
+## 📄 Licensz
 
-Ez egy lezárt iskolai projekt, amely webes technológiák gyakorlása céljából készült.
+MIT License - Szabadon használható és módosítható
 
 ---
 
