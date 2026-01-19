@@ -1,4 +1,4 @@
-# web-calculator 🧮💻
+# Calculator (Web) 🧮💻
 
 > Webes számológép - Iskolai projekt SCSS-sel és vanilla JavaScript-tel
 
