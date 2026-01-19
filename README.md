@@ -70,6 +70,3 @@ Ez az iskolai projekt célja az SCSS preprocessor és a vanilla JavaScript gyako
 ---
 
 **⭐ Ha tetszik a projekt, örülök egy csillagnak!**
-***
-
-Kész! Folytassuk a következővel? 🚀
