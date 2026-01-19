@@ -16,7 +16,7 @@ Ez egy egyszerű, de funkcionális webes számológép, amelyet SCSS-sel és nat
 
 ## 🛠️ Technológiák
 
-- **HTML5** - Struktúra
+- **HTML5**
 - **SCSS** - CSS preprocessor a jobb stíluskezeléshez
 - **Vanilla JavaScript** - Számológép logika és interaktivitás
 
